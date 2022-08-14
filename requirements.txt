@@ -12,4 +12,5 @@ gunicorn==19.9.0
 httptools
 scipy
 pickle
+zipfile
 shap==0.41.0
