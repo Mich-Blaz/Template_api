@@ -11,6 +11,5 @@ uvicorn
 gunicorn==19.9.0
 httptools
 scipy
-pickle
-zipfile
+lightgbm==3.3.2
 shap==0.41.0
